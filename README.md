@@ -12,8 +12,7 @@
 <li> JAVA SCRIPT </li>
 </ul>
 <br>
-<h3> ACESSE O PROJETO AQUI:</h3>
-https://renansiebert7.github.io/PROJETO-CONVERT-MONEY/
+<a href="https://renansiebert7.github.io/PROJETO-CONVERT-MONEY/">👉 Clique aqui para visualizar</a>
 <br>
 <br>
 <img src="https://github.com/renansiebert7/PROJETO-CONVERT-MONEY/blob/master/assets/img%20read%20me%20convert%20money.png?raw=true">
